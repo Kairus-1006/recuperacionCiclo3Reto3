@@ -55,7 +55,7 @@ export default {
         },
         {
           codigo: 2,
-          nombre: "Integrante 2",
+          nombre: "integrante 2",
           descripcion:
             "2. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore omnis, laudantium tempore, provcodigoent corporis iure ex libero repellendus accusamus accusantium at voluptate excepturi voluptatem quis, illo modi exercitationem error consequatur.",
           rol: "Desarrollador backend",
